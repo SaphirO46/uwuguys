@@ -1,3 +1,8 @@
+@font-face { font-family: JuneBug; src: url('SaphirosPolice-Regular.ttf');}
+*{
+	font-family: JuneBug;
+}
+
 body{
     background-image: url(https://i.ibb.co/L0GNf6D/fond-siteethernet.png)
     }
